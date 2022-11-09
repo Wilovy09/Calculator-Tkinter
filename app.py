@@ -1,4 +1,4 @@
-import parser
+#import parser
 from tkinter import *
 
 root=Tk()
